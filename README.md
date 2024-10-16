@@ -78,7 +78,8 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/6b00cd61-ed11-4e3f-8ddd-d7ef1d798d22)
+![Screenshot 2024-10-16 150529](https://github.com/user-attachments/assets/bcd5c7a4-13ae-476f-a7b4-bc52697a1555)
+
 
 
 ## Result:
